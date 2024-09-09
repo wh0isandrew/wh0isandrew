@@ -35,6 +35,10 @@
   <br>
 
   <a href="https://github.com/whoisandre">
-    <img src="https://github-readme-stats-whoisandre.vercel.app/api/wakatime?username=whoisandre&theme=transparent&hide_border=true&hide=markdown,html,css&hide_title=true&line_height=50&langs_count=2&layout=default">
+    <img src="https://github-readme-stats-whoisandre.vercel.app/api/wakatime?username=whoisandre&theme=transparent&hide_border=true&hide=markdown,html,css&line_height=50&langs_count=2&layout=default&title_color=174962&custom_title=Weekly%20Activity">
   </a>
+
+<br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisandre&layout=compact&theme=transparent&hide_border=true&hide=markdown,html,css&title_color=174962&custom_title=Top%20Langs%20in%20My%20GitHub%20Repos">
 </div>
