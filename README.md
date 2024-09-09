@@ -1,6 +1,6 @@
 <div align="left">
   <samp>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=174962&width=435&lines=%3E+whoami"> <br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=8D8D8D&width=435&lines=%3E+whoami"> <br>
     ⬝ L1 SOC Analyst (previously) <br>
     ⬝ Software Engineering student <br>
     ⬝ pt/br + eng <br>
@@ -35,12 +35,12 @@
   <br>
 
   <a href="https://github.com/whoisandre">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisandre&layout=compact&theme=transparent&hide_border=true&hide=markdown,html,css&title_color=174962&custom_title=Top%20Langs%20in%20My%20GitHub%20Repos">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisandre&layout=compact&theme=transparent&hide_border=true&hide=markdown,html,css&title_color=8D8D8D&custom_title=Top%20Langs%20in%20My%20GitHub%20Repos&text_color=8D8D8D">
   </a>
   
   <br>
 
   <a href="https://github.com/whoisandre">
-    <img src="https://github-readme-stats-whoisandre.vercel.app/api/wakatime?username=whoisandre&theme=transparent&hide_border=true&hide=markdown,html,css&line_height=50&langs_count=2&layout=default&title_color=174962&custom_title=Weekly%20Activity">
+    <img src="https://github-readme-stats-whoisandre.vercel.app/api/wakatime?username=whoisandre&theme=transparent&hide_border=true&hide=markdown,html,css&line_height=50&langs_count=2&layout=default&title_color=8D8D8D&custom_title=Weekly%20Activity&text_color=8D8D8D">
   </a>
 </div>
