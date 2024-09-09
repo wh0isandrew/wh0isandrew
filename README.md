@@ -1,6 +1,6 @@
 <div align="left">
   <samp>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=53F72C&width=435&lines=%3E+whoami"> <br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=174962&width=435&lines=%3E+whoami"> <br>
     ⬝ L1 SOC Analyst (previously) <br>
     ⬝ Software Engineering student <br>
     ⬝ pt/br + eng <br>
