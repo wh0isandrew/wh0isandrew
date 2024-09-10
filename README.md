@@ -41,6 +41,6 @@
   <br>
 
   <a href="https://github.com/whoisandre">
-    <img src="https://github-readme-stats-whoisandre.vercel.app/api/wakatime?username=whoisandre&theme=transparent&hide_border=true&hide=markdown,html,css&line_height=50&langs_count=2&layout=default&title_color=8D8D8D&custom_title=Weekly%20Activity&text_color=8D8D8D">
+    <img src="https://github-readme-stats-whoisandre.vercel.app/api/wakatime?username=whoisandre&theme=transparent&hide_border=true&hide=markdown,html,css,gitignore%20file,IDEA_MODULE,xml&line_height=50&langs_count=2&layout=default&title_color=8D8D8D&custom_title=Weekly%20Activity&text_color=8D8D8D">
   </a>
 </div>
