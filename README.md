@@ -34,8 +34,8 @@
 
   <br>
 
-  <a href="https://github.com/whoisandre">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisandre&layout=compact&theme=transparent&hide_border=true&hide=markdown,html,css&title_color=8D8D8D&custom_title=Top%20Langs%20in%20My%20GitHub%20Repos&text_color=8D8D8D">
+  <a href="https://github.com/wh0isandrew">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh0isandrew&layout=compact&theme=transparent&hide_border=true&hide=markdown,html,css&title_color=8D8D8D&custom_title=Top%20Langs%20in%20My%20GitHub%20Repos&text_color=8D8D8D">
   </a>
   
   <br>
