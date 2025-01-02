@@ -33,14 +33,12 @@
   </samp>
 
   <br>
-
-  <a href="https://github.com/wh0isandrew">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh0isandrew&layout=compact&theme=transparent&hide_border=true&hide=markdown,html,css&title_color=8D8D8D&custom_title=Top%20Langs%20in%20My%20GitHub%20Repos&text_color=8D8D8D">
-  </a>
   
-  <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wh0isandrew&layout=compact&theme=transparent&hide_border=true&hide=markdown,html,css&title_color=8D8D8D&custom_title=Top%20Langs%20in%20My%20GitHub%20Repos&text_color=8D8D8D)](https://github.com/wh0isandrew)
+[![Coding Activity](https://github-readme-stats-whoisandre.vercel.app/api/wakatime?username=whoisandre&theme=transparent&hide_border=true&hide=markdown,html,css,gitignore%20file,IDEA_MODULE,xml&line_height=50&langs_count=2&layout=default&title_color=8D8D8D&custom_title=Weekly%20Activity&text_color=8D8D8D)](https://github.com/wh0isandrew)
 
-  <a href="https://github.com/whoisandre">
-    <img src="https://github-readme-stats-whoisandre.vercel.app/api/wakatime?username=whoisandre&theme=transparent&hide_border=true&hide=markdown,html,css,gitignore%20file,IDEA_MODULE,xml&line_height=50&langs_count=2&layout=default&title_color=8D8D8D&custom_title=Weekly%20Activity&text_color=8D8D8D">
-  </a>
-</div>
+
+ <samp> Want to get in touch? </samp>
+
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=Flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andr3l/)
+[![Proton Drive](https://img.shields.io/badge/Proton%20Mail-6d4aff?style=Flat&logo=proton%20drive&logoColor=white)](mailto:andre.luiz.ribeiro@pm.me)
